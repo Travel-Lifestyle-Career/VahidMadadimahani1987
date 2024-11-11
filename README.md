@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vahid Madadimahani</h1>
 <h3 align="center">Web Designer</h3>
 
-- 🔭 I’m currently working on **PlanChoosePickup Ltd**
+- 🔭 I’m currently working on **PlanChoosePickup Ltd.**
 
-- 🌱 I’m currently learning **AI Digital Marketing and SEO Strategies**
+- 🌱 I’m currently learning **AI Digital Marketing and SEO Strategies.**
 
-- 👯 I’m looking to collaborate on **a systematic review of a logic model in e-commerce**
+- 👯 I’m looking to collaborate on **a systematic review of a logic model in e-commerce.**
 
 - 📫 How to reach me **vahidmadadimahani1987@gmail.com**
 
