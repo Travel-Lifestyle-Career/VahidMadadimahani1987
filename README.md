@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **AI Digital Marketing and SEO Strategies**
 
+- 👯 I’m looking to collaborate on **a systematic review of a logic model in e-commerce**
+
 - 📫 How to reach me **vahidmadadimahani1987@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
