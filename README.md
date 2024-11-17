@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vahid Madadimahani</h1>
-<h3 align="center">I'm a general manager with over 10 years of experience, combining practical expertise with academic research to create impactful tech solutions. I'm particularly passionate about leveraging AI in SEO, machine learning, and digital marketing strategies.</h3>
+<h3 align="center">I'm a general manager with over 10 years of experience, combining practical expertise with academic research to create impactful tech solutions. I'm particularly passionate about leveraging AI in SEO and digital marketing strategies.</h3>
 
 - 🔭 I’m currently working on **PlanChoosePickup Ltd.**
 
